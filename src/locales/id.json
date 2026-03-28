@@ -1,0 +1,377 @@
+{
+  "home": "Beranda",
+  "service": "Layanan",
+  "technology": "Teknologi",
+  "about": "Tentang Kami",
+  "consult": "Mulai Konsultasi",
+
+  "hero_title": "Halo, Kami Dari WindBright",
+  "hero_subtitle": "Masa Depan Teknologi Cerdas",
+  "hero_start": "Mulai Sekarang",
+  "hero_contact": "Hubungi Kami",
+
+  "title_exp": "Kontribusi",
+  "title_exp2": "Kami",
+  "plts_exp": "PLTS Beroperasi",
+  "hijau_exp": "Energi Hijau",
+  "co2_exp": "CO2 Terhindari",
+  "kerja_exp": "Lapangan Kerja Hijau",
+  "profile": ", adalah perusahaan yang bergerak di bidang pengembangan teknologi masa depan. Selain itu, spesialisasi kami adalah mewujudkan ide-ide segar yang belum pernah diimplementasikan sebelumnya. Sebutkan saja, dan kami pasti akan mewujudkannya!",
+
+  "stats": {
+    "operating_plants": "PLTS Beroperasi",
+    "green_energy": "Energi Hijau",
+    "co2_avoided": "CO2 Terhindari",
+    "green_jobs": "Lapangan Kerja Hijau"
+  },
+
+  "values": {
+    "title": "Nilai Kami",
+    "knowledge": "Ilmu",
+    "explore": "Jelajah",
+    "progress": "Progres"
+  },
+
+  "cards": {
+    "1": {
+      "category": "Profil WindBright",
+      "title": "Layanan Informasi Publik"
+    },
+    "2": {
+      "category": "Informasi",
+      "title": "Edukit Kincir Angin"
+    },
+    "3": {
+      "category": "Bisnis",
+      "title": "Terobosan Teknologi Energi Terbarukan"
+    },
+    "4": {
+      "category": "Rekrutmen",
+      "title": "Menjadi Bagian dari Tim Kami"
+    }
+  },
+
+  "investor": {
+    "label": "Investor",
+    "title": "Hubungan Investor",
+    "description": "Sebagai perusahaan yang bergerak di bidang energi terbarukan melalui pemanfaatan kincir angin, WindBright berkomitmen untuk menghadirkan sumber listrik yang bersih, berkelanjutan, dan ramah lingkungan. Dengan mengoptimalkan potensi energi angin, WindBright terus berinovasi untuk menyediakan energi yang efisien serta mendukung masa depan energi yang lebih hijau.",
+    "button": "Selengkapnya"
+  },
+
+  "slides": {
+    "1": {
+      "title": "Energi Masa Depan yang Bersih",
+      "description": "Berkomitmen untuk menghadirkan solusi energi terbarukan yang inovatif bagi dunia."
+    },
+    "2": {
+      "title": "Edukasi Teknologi Untuk Siswa",
+      "description": "Optimalkan pembelajaran STEM dengan Edukit dari kami"
+    },
+    "3": {
+      "title": "Investasi Untuk Lingkungan",
+      "description": "Bersama-sama kita ciptakan ekosistem yang berkelanjutan untuk generasi mendatang."
+    }
+  },
+  "hero_button": "Pelajari Lebih Lanjut",
+
+  "services": {
+    "title_1": "Edukit Kincir Angin",
+    "desc_1": "Paket edukasi interaktif yang dirancang untuk memperkenalkan prinsip dasar energi terbarukan kepada pelajar melalui perakitan kincir angin skala kecil.",
+
+    "title_2": "Pemasangan Kincir Angin",
+    "desc_2": "Layanan instalasi turbin angin profesional untuk kebutuhan rumah tangga maupun industri guna menghasilkan energi mandiri yang ramah lingkungan.",
+
+    "title_3": "Maintenance Drone",
+    "desc_3": "Inspeksi dan pemeliharaan rutin infrastruktur energi menggunakan teknologi drone canggih untuk menjamin keamanan dan performa maksimal tanpa risiko tinggi."
+  },
+
+  "service_section": {
+    "title_1": "Produk dan",
+    "title_2": "Layanan Kami",
+    "order": "Pesan Sekarang"
+  },
+
+  "modal": {
+    "description": "Untuk menampung energi dari alam, WindBright menawarkan paket energy box untuk menyimpan energi dari panel surya hingga 10 KWP. Berkualitas tinggi dengan harga yang sangat kompetitif.",
+    "full_package": "PAKET LENGKAP!",
+    "subscription": "SUBSCRIPTION",
+    "subscription_desc": "Penggunaan produk dalam jangka waktu singkat (Sewa)",
+
+    "features": {
+      "battery": "Baterai 40 Ah",
+      "system": "Sistem Elektronika Lengkap",
+      "automation": "Sistem Otomatisasi"
+    },
+
+    "benefits": {
+      "installation": "Instalasi Berkualitas",
+      "installation_sub": "Garansi 6 Bulan*",
+      "drone": "Dokumentasi Drone**",
+      "drone_sub": "Laporan Foto Udara",
+      "consult": "Konsultasi Gratis",
+      "consult_sub": "Dukungan Teknis 24/7",
+      "weather": "Indoor & Outdoor",
+      "weather_sub": "Perlindungan Semua Cuaca"
+    },
+
+    "contact": "Hubungi Kami Sekarang",
+
+    "notes": {
+      "note1": "* Tidak termasuk kerusakan inverter akibat beban berlebih",
+      "note2": "** Khusus wilayah Surabaya dan sekitarnya"
+    }
+  },
+
+  "edukit": {
+    "label": "Edukasi Terbarukan",
+    "title_1": "Edukit Kincir Angin",
+    "title_2": "WindBright",
+    "description": "WindBright berkomitmen mendukung literasi energi hijau melalui Edukit interaktif. Setiap kit dirancang untuk memberikan pengalaman belajar nyata bagi siswa untuk memahami cara kerja energi bersih."
+  },
+
+  "installation": {
+    "label": "Layanan Teknis",
+    "title_1": "Instalasi Kincir",
+    "title_2": "Angin Profesional",
+    "description": "Dari tahap perencanaan hingga operasional, tim ahli WindBright memastikan pemasangan turbin angin Anda dilakukan dengan standar keamanan tertinggi untuk efisiensi energi yang maksimal."
+  },
+
+  "drone": {
+    "label": "Inspeksi Teknologi",
+    "title_1": "Maintenance Drone &",
+    "title_2": "Analisis Data",
+    "description": "Optimalkan kinerja aset energi Anda dengan pemeliharaan berbasis drone. WindBright menyediakan solusi inspeksi cepat, aman, dan akurat tanpa harus menghentikan operasional turbin atau panel surya Anda."
+  },
+
+  "hero": {
+    "tech": "Teknologi",
+    "smart": "Pintar",
+    "energy": "Untuk Energi Murni.",
+    "description": "Kami menggabungkan IoT, Machine Learning, dan rekayasa turbin mutakhir untuk mengubah hembusan angin menjadi daya yang presisi dan berkelanjutan.",
+    "explore": "Eksplorasi Inovasi",
+    "whitepaper": "Whitepaper",
+    "system_status": "Semua Sistem Optimal"
+  },
+
+  "technology_section": {
+    "title": "Teknologi Kami",
+    "items": {
+      "solar": {
+        "title": "Panel Surya",
+        "desc": "Efisiensi tinggi dalam menyerap energi fotovoltaik."
+      },
+      "wind": {
+        "title": "Kincir Angin",
+        "desc": "Optimasi turbin angin untuk konversi energi maksimal."
+      },
+      "sensor": {
+        "title": "Sensor Kelembapan",
+        "desc": "Monitoring presisi untuk ekosistem energi pintar."
+      }
+    }
+  },
+
+  "innovation": {
+    "title": {
+      "part1": "Inovasi",
+      "highlight": "Kami"
+    },
+    "items": {
+      "drone": {
+        "title": "Menggunakan Drone untuk Maintenance",
+        "desc": "Tidak ada lagi turbin angin rusak terbengkalai!"
+      },
+      "remin": {
+        "title": "Remin (Rem Angin) Sistem Rem Otomatis",
+        "desc": "Dapat mengerem tanpa listrik dan sensor, dipicu oleh gaya dorong angin."
+      },
+      "foundation": {
+        "title": "Pondasi Modular Non Permanen",
+        "desc": "Hingga 8x lebih murah dibandingkan pondasi semen!"
+      }
+    }
+  },
+
+  "project": {
+    "title": {
+      "part1": "Proyek",
+      "highlight": "Kami"
+    },
+    "badge": "Untuk Sistem Irigasi",
+    "location": "Jawa Timur, Indonesia",
+
+    "status_label": "Status",
+    "status_value": "Selesai 100%",
+
+    "energy_label": "Tipe Energi",
+    "energy_value": "Hybrid (Angin & Surya)"
+  },
+
+  "project_2": {
+    "badge": "Untuk Sistem Anti Hama",
+    "location": "Nganjuk, Jawa Timur",
+
+    "status_label": "Status",
+    "status_value": "Selesai 100%",
+
+    "energy_label": "Tipe Energi",
+    "energy_value": "Turbin Angin (Remin System)"
+  },
+
+  "about_hero": {
+    "title": {
+      "part1": "Inovasi Untuk",
+      "highlight": "Keberlanjutan."
+    },
+    "description": "Didirikan dengan visi untuk merevolusi sektor energi, WindBright hadir sebagai mitra strategis dalam menghadirkan solusi infrastruktur energi terbarukan yang efisien dan berdampak positif bagi lingkungan global.",
+
+    "stats": {
+      "founded": {
+        "value": "2018",
+        "label": "Tahun Berdiri"
+      },
+      "partner": {
+        "value": "25+",
+        "label": "Mitra Global"
+      }
+    },
+
+    "button": "Visi & Misi Kami",
+    "link": "Lihat Struktur Organisasi"
+  },
+
+  "energy_pillars": {
+    "title": "Pilar Energi Kami",
+    "team": {
+      "1": {
+        "role": "Chief Executive Officer",
+        "specialty": "Rekayasa Turbin Angin"
+      },
+      "2": {
+        "role": "Chief Technology Officer",
+        "specialty": "AI & Sistem Smart Grid"
+      },
+      "3": {
+        "role": "Head of Sustainability",
+        "specialty": "Dampak Lingkungan"
+      },
+      "4": {
+        "role": "Technical Lead",
+        "specialty": "Infrastruktur Modular"
+      }
+    }
+  },
+
+  "vision_mission": {
+    "vision": {
+      "title": "Visi",
+      "description": "Menjadi pionir terdepan dalam pengembangan turbin angin skala kecil di Indonesia, yang mampu menjangkau seluruh pelosok negeri",
+      "tag": "Inovasi Masa Depan"
+    },
+    "mission": {
+      "title": "Misi",
+      "tag": "Aksi Berkelanjutan",
+      "list": {
+        "1": "Menciptakan turbin angin yang efisien dengan kualitas terbaik",
+        "2": "Menyediakan model bisnis dengan skema sewa agar terjangkau oleh masyarakat pedesaan",
+        "3": "Optimalisasi manufaktur dan logistik",
+        "4": "Menyediakan edukasi terpadu melalui sosialisasi intensif",
+        "5": "Menyediakan maintenance rutin dan efektif"
+      }
+    }
+  },
+
+  "commitment": {
+    "title": "Komitmen Kami",
+    "button": "Pelajari Lebih Lanjut",
+    "items": {
+      "1": {
+        "title": "Transisi ke Energi Hijau",
+        "desc": "Saat ini energi di Indonesia masih didominasi energi fosil. Kami berkomitmen membantu mewujudkan bauran energi terbarukan sebesar 23% pada 2025 dan 31% pada 2050."
+      },
+      "2": {
+        "title": "Peningkatan Efisiensi Energi",
+        "desc": "Kami mendukung proyek efisiensi untuk menciptakan ekonomi hijau, mengurangi emisi gas rumah kaca tanpa mengorbankan pertumbuhan ekonomi."
+      }
+    }
+  },
+  "core_values": {
+    "title": "Nilai Kami",
+    "items": {
+      "1": {
+        "title": "Tim Berpengalaman",
+        "desc": "Profesional berkualitas yang ahli dalam teknologi energi terbarukan."
+      },
+      "2": {
+        "title": "Produk Berkualitas Tinggi",
+        "desc": "Memenuhi standar global tertinggi dalam setiap solusi energi yang kami berikan."
+      },
+      "3": {
+        "title": "Berorientasi Pelanggan",
+        "desc": "Kami mengutamakan kepuasan pelanggan dalam setiap keputusan."
+      },
+      "4": {
+        "title": "Siap Masa Depan",
+        "desc": "Terus berinovasi untuk generasi sistem energi berikutnya."
+      }
+    }
+  },
+
+  "history": {
+    "label": "Milestone Perjalanan",
+    "title": "Perjalanan",
+    "items": {
+      "1": {
+        "description": "Perjalanan dimulai dengan penemuan celah teknologi dalam sistem turbin angin konvensional. Kami mengembangkan prototipe awal untuk membuktikan konsep energi terbarukan yang lebih efisien bagi masyarakat lokal.",
+        "highlights": ["Prototipe awal dibuat", "Menemukan celah teknologi"]
+      },
+      "2": {
+        "description": "Di tahun kedua, ide kami berkembang menjadi solusi yang komprehensif. Kami menyempurnakan desain teknis dan mulai menciptakan prototipe yang siap diuji di lapangan.",
+        "highlights": [
+          "Pengembangan ide komprehensif",
+          "Pengujian prototipe lanjutan"
+        ]
+      },
+      "3": {
+        "description": "Tahun transformasi besar dengan berbagai pencapaian dan ekspansi. Kami mulai memberikan dampak nyata bagi masyarakat.",
+        "highlights": [
+          "Perusahaan resmi berdiri",
+          "Pendanaan berhasil didapat",
+          "Instalasi microgrid"
+        ]
+      }
+    }
+  },
+
+  "footer": {
+    "brand_desc": "Memimpin transisi energi berkelanjutan di Indonesia dengan solusi teknologi masa depan yang cerdas dan efisien.",
+
+    "quick_links": {
+      "title": "Tautan Cepat",
+      "items": ["Beranda", "Tentang Kami", "Layanan", "Proyek", "Kontak"]
+    },
+
+    "service_list": {
+      "title": "Layanan Kami",
+      "items": [
+        "Instalasi PLTS",
+        "Konsultasi Energi",
+        "Perawatan Panel",
+        "Sistem Monitoring"
+      ]
+    },
+
+    "contact": {
+      "title": "Hubungi Kami",
+      "address": "Jl. Teknologi Hijau No. 123, Jakarta Selatan, Indonesia",
+      "phone": "+62 21 1234 5678",
+      "email": "contact@windbright.id"
+    },
+
+    "bottom": {
+      "copyright": "© 2026 PT WindBright Indonesia. Seluruh Hak Cipta Dilindungi.",
+      "privacy": "Kebijakan Privasi",
+      "terms": "Syarat & Ketentuan"
+    }
+  }
+}

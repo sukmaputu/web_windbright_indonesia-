@@ -1,0 +1,376 @@
+{
+  "home": "Home",
+  "service": "Services",
+  "technology": "Technology",
+  "about": "About Us",
+  "consult": "Start Consultation",
+
+  "hero_title": "Hello, We Are WindBright",
+  "hero_subtitle": "The Future Of Smart Technology",
+  "hero_start": "Get Started",
+  "hero_contact": "Contact Us",
+
+  "title_exp": "Our",
+  "title_exp2": "Contribusion",
+  "plts_exp": "Solar Power Plant",
+  "hijau_exp": "Green Energy",
+  "co2_exp": "CO2 Avoided",
+  "kerja_exp": "Green Jobs",
+  "profile": ", is a company engaged in the development of future technology. In addition, our specialty is realizing fresh ideas that have never been implemented before. You mention it, and we'll definitely make it happen!.",
+
+  "stats": {
+    "operating_plants": "Operating Solar Plants",
+    "green_energy": "Green Energy Generated",
+    "co2_avoided": "CO2 Avoided",
+    "green_jobs": "Green Jobs Created"
+  },
+
+  "values": {
+    "title": "Our Values",
+    "knowledge": "Knowledge",
+    "explore": "Exploration",
+    "progress": "Progress"
+  },
+
+  "cards": {
+    "1": {
+      "category": "WindBright Profile",
+      "title": "Public Information Services"
+    },
+    "2": {
+      "category": "Information",
+      "title": "Wind Turbine Edukit"
+    },
+    "3": {
+      "category": "Business",
+      "title": "Renewable Energy Technology Breakthrough"
+    },
+    "4": {
+      "category": "Recruitment",
+      "title": "Join Our Team"
+    }
+  },
+
+  "investor": {
+    "label": "Investor",
+    "title": "Investor Relations",
+    "description": "As a company engaged in renewable energy through wind turbine utilization, WindBright is committed to providing clean, sustainable, and environmentally friendly electricity sources. By optimizing wind energy potential, WindBright continues to innovate in delivering efficient energy solutions and supporting a greener future.",
+    "button": "Learn More"
+  },
+
+  "slides": {
+    "1": {
+      "title": "Clean Energy for the Future",
+      "description": "Committed to delivering innovative renewable energy solutions for the world."
+    },
+    "2": {
+      "title": "Technology Education for Students",
+      "description": "Optimize STEM learning with our Edukit"
+    },
+    "3": {
+      "title": "Investment for the Environment",
+      "description": "Together we build a sustainable ecosystem for future generations."
+    }
+  },
+  "hero_button": "Learn More",
+
+  "services": {
+    "title_1": "Wind Turbine Edukit",
+    "desc_1": "An interactive educational package designed to introduce students to renewable energy principles through small-scale wind turbine assembly.",
+
+    "title_2": "Wind Turbine Installation",
+    "desc_2": "Professional wind turbine installation services for residential and industrial needs to generate eco-friendly independent energy.",
+
+    "title_3": "Drone Maintenance",
+    "desc_3": "Inspection and maintenance of energy infrastructure using advanced drone technology to ensure safety and optimal performance."
+  },
+
+  "service_section": {
+    "title_1": "Products and",
+    "title_2": "Our Services",
+    "order": "Order Now"
+  },
+
+  "modal": {
+    "description": "To store energy from nature...",
+    "full_package": "FULL PACKAGE!",
+    "subscription": "SUBSCRIPTION",
+    "subscription_desc": "Short-term product usage (Rental)",
+
+    "features": {
+      "battery": "40 Ah Battery",
+      "system": "Complete Electronic System",
+      "automation": "Automation System"
+    },
+
+    "benefits": {
+      "installation": "Quality Installation",
+      "installation_sub": "6 Month Warranty*",
+      "drone": "Drone Documentation**",
+      "drone_sub": "Aerial Photo Report",
+      "consult": "Free Consultation",
+      "consult_sub": "24/7 Technical Support",
+      "weather": "Indoor & Outdoor",
+      "weather_sub": "All-Weather Protection"
+    },
+
+    "contact": "Contact Us Now",
+
+    "notes": {
+      "note1": "* Does not include inverter damage due to overload",
+      "note2": "** Available only in Surabaya and surrounding areas"
+    }
+  },
+  "edukit": {
+    "label": "Renewable Education",
+    "title_1": "Wind Turbine Edukit",
+    "title_2": "WindBright",
+    "description": "WindBright is committed to supporting green energy literacy through interactive edukits. Each kit is designed to provide hands-on learning experiences for students to understand how clean energy works."
+  },
+  "installation": {
+    "label": "Technical Services",
+    "title_1": "Professional Wind",
+    "title_2": "Turbine Installation",
+    "description": "From planning to operation, WindBright’s expert team ensures your wind turbine installation meets the highest safety standards for maximum energy efficiency."
+  },
+
+  "drone": {
+    "label": "Technology Inspection",
+    "title_1": "Drone Maintenance &",
+    "title_2": "Data Analysis",
+    "description": "Optimize your energy assets with drone-based maintenance. WindBright provides fast, safe, and accurate inspection solutions without interrupting your turbine or solar panel operations."
+  },
+
+  "hero": {
+    "tech": "Smart",
+    "smart": "Technology",
+    "energy": "For Clean Energy.",
+    "description": "We combine IoT, Machine Learning, and advanced turbine engineering to transform wind into precise and sustainable power.",
+    "explore": "Explore Innovation",
+    "whitepaper": "Whitepaper",
+    "system_status": "All Systems Optimal"
+  },
+
+  "technology_section": {
+    "title": "Our Technology",
+    "items": {
+      "solar": {
+        "title": "Solar Panel",
+        "desc": "High efficiency in capturing photovoltaic energy."
+      },
+      "wind": {
+        "title": "Wind Turbine",
+        "desc": "Optimized wind turbines for maximum energy conversion."
+      },
+      "sensor": {
+        "title": "Humidity Sensor",
+        "desc": "Precision monitoring for smart energy ecosystems."
+      }
+    }
+  },
+
+  "innovation": {
+    "title": {
+      "part1": "Our",
+      "highlight": "Innovation"
+    },
+    "items": {
+      "drone": {
+        "title": "Drone-Based Maintenance",
+        "desc": "No more abandoned or damaged wind turbines!"
+      },
+      "remin": {
+        "title": "Remin (Wind Brake) Automatic Braking System",
+        "desc": "Operates without electricity or sensors, triggered purely by wind force."
+      },
+      "foundation": {
+        "title": "Modular Non-Permanent Foundation",
+        "desc": "Up to 8x more cost-efficient than concrete foundations!"
+      }
+    }
+  },
+
+  "project": {
+    "title": {
+      "part1": "Our",
+      "highlight": "Projects"
+    },
+    "badge": "For Irrigation Systems",
+    "location": "East Java, Indonesia",
+
+    "status_label": "Status",
+    "status_value": "Completed 100%",
+
+    "energy_label": "Energy Type",
+    "energy_value": "Hybrid (Wind & Solar)"
+  },
+
+  "project_2": {
+    "badge": "For Pest Control Systems",
+    "location": "Nganjuk, East Java",
+
+    "status_label": "Status",
+    "status_value": "Completed 100%",
+
+    "energy_label": "Energy Type",
+    "energy_value": "Wind Turbine (Remin System)"
+  },
+
+  "about_hero": {
+    "title": {
+      "part1": "Innovation for",
+      "highlight": "Sustainability."
+    },
+    "description": "Founded with a vision to revolutionize the energy sector, WindBright serves as a strategic partner in delivering efficient renewable energy infrastructure solutions with a positive global environmental impact.",
+
+    "stats": {
+      "founded": {
+        "value": "2018",
+        "label": "Founded"
+      },
+      "partner": {
+        "value": "25+",
+        "label": "Global Partners"
+      }
+    },
+
+    "button": "Our Vision & Mission",
+    "link": "View Organizational Structure"
+  },
+
+  "energy_pillars": {
+    "title": "Our Energy Pillars",
+    "team": {
+      "1": {
+        "role": "Chief Executive Officer",
+        "specialty": "Wind Turbine Engineering"
+      },
+      "2": {
+        "role": "Chief Technology Officer",
+        "specialty": "AI & Smart Grid System"
+      },
+      "3": {
+        "role": "Head of Sustainability",
+        "specialty": "Environmental Impact"
+      },
+      "4": {
+        "role": "Technical Lead",
+        "specialty": "Modular Infrastructure"
+      }
+    }
+  },
+
+  "vision_mission": {
+    "vision": {
+      "title": "Vision",
+      "description": "To become a leading pioneer in the development of small-scale wind turbines in Indonesia, reaching even the most remote areas",
+      "tag": "Future Innovation"
+    },
+    "mission": {
+      "title": "Mission",
+      "tag": "Sustainable Action",
+      "list": {
+        "1": "Develop efficient wind turbines with the best quality",
+        "2": "Provide rental-based business models accessible to rural communities",
+        "3": "Optimize manufacturing and logistics",
+        "4": "Deliver integrated education through intensive outreach",
+        "5": "Provide effective and routine maintenance"
+      }
+    }
+  },
+  "commitment": {
+    "title": "Our Commitment",
+    "button": "Learn More",
+    "items": {
+      "1": {
+        "title": "Transition to Green Energy",
+        "desc": "Currently, energy in Indonesia is still dominated by fossil fuels. We are committed to helping achieve a renewable energy mix of 23% by 2025 and 31% by 2050."
+      },
+      "2": {
+        "title": "Energy Efficiency Improvement",
+        "desc": "We support efficiency projects to create a green economy, reducing greenhouse gas emissions without compromising economic growth."
+      }
+    }
+  },
+  "core_values": {
+    "title": "Our Values",
+    "items": {
+      "1": {
+        "title": "Highly Experienced Team",
+        "desc": "Qualified professionals who are experts in renewable technology."
+      },
+      "2": {
+        "title": "Best Quality Products",
+        "desc": "Meeting the highest global standards for every energy solution."
+      },
+      "3": {
+        "title": "Customer Oriented",
+        "desc": "We prioritize customer satisfaction in every decision."
+      },
+      "4": {
+        "title": "Future Ready",
+        "desc": "Continuously innovating for next-generation energy systems."
+      }
+    }
+  },
+
+  "history": {
+    "label": "Journey Milestones",
+    "title": "Journey",
+    "items": {
+      "1": {
+        "description": "The journey began with identifying a technological gap in conventional wind turbine systems. We developed an early prototype to prove a more efficient renewable energy concept.",
+        "highlights": [
+          "Early Prototype Created",
+          "Technological Gap Identified"
+        ]
+      },
+      "2": {
+        "description": "In the second year, our idea evolved into a comprehensive solution. We refined the technical design and built prototypes ready for field testing.",
+        "highlights": [
+          "Comprehensive Idea Developed",
+          "Advanced Prototype Testing"
+        ]
+      },
+      "3": {
+        "description": "A transformative year with major achievements and expansion. We started delivering real impact to communities.",
+        "highlights": [
+          "Company Officially Established",
+          "Funding Successfully Raised",
+          "Microgrid Installations"
+        ]
+      }
+    }
+  },
+  "footer": {
+    "brand_desc": "Leading the sustainable energy transition in Indonesia with smart and efficient future technology solutions.",
+
+    "quick_links": {
+      "title": "Quick Links",
+      "items": ["Home", "About Us", "Services", "Projects", "Contact"]
+    },
+
+    "service_list": {
+      "title": "Our Services",
+      "items": [
+        "Solar Panel Installation",
+        "Energy Consulting",
+        "Panel Maintenance",
+        "Monitoring System"
+      ]
+    },
+
+    "contact": {
+      "title": "Contact Us",
+      "address": "Jl. Teknologi Hijau No. 123, South Jakarta, Indonesia",
+      "phone": "+62 21 1234 5678",
+      "email": "contact@windbright.id"
+    },
+
+    "bottom": {
+      "copyright": "© 2026 PT WindBright Indonesia. All rights reserved.",
+      "privacy": "Privacy Policy",
+      "terms": "Terms & Conditions"
+    }
+  }
+}
