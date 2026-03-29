@@ -50,7 +50,7 @@ const AboutHero = () => {
     {
       id: 4,
       name: "Mirza Akbar M",
-      img: "image/mirza.jpeg",
+      img: "image/mirza2.jpeg",
       linkedin: "#",
     },
   ];

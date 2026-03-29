@@ -341,11 +341,11 @@ const HeroCarousel = () => {
                       {t("modal.full_package")}
                     </h4>
                     <p className="text-sm line-through text-slate-500 mb-1">
-                      Rp 3.500.000
+                      Rp 5.500.000
                     </p>
                     <div className="flex items-baseline gap-1 mb-6">
                       <p className="text-3xl font-black text-white">
-                        Rp 2.999.000
+                        Rp 4.464.000
                       </p>
                       <span className="text-[10px] text-slate-400 uppercase font-bold">
                         / Unit
@@ -369,18 +369,18 @@ const HeroCarousel = () => {
 
                   <div className="relative group overflow-hidden border border-white/10 rounded-3xl p-8 bg-gradient-to-b from-secondary/10 to-transparent hover:from-secondary/20 transition-all duration-500">
                     <h4 className="text-[11px] font-black tracking-[0.3em] mb-4 text-secondary uppercase">
-                      SUBSCRIPTION
+                      PURCHASE
                     </h4>
                     <p className="text-xs text-slate-400 leading-relaxed mb-4">
                       {t("modal.subscription_desc")}
                     </p>
                     <div className="flex items-baseline gap-1">
                       <p className="text-3xl font-black text-white">
-                        Rp 270.000
+                        Rp 372.000
                       </p>
-                      <span className="text-[10px] text-slate-400 uppercase font-bold">
+                      {/* <span className="text-[10px] text-slate-400 uppercase font-bold">
                         / Bulan
-                      </span>
+                      </span> */}
                     </div>
                   </div>
                 </div>
@@ -438,8 +438,8 @@ const HeroCarousel = () => {
 
                 <div className="border-t border-white/10 pt-10 relative z-10">
                   <div className="text-[11px] text-slate-500 mb-10 italic space-y-1">
-                    <p>{t("modal.notes_1")}</p>
-                    <p>{t("modal.notes_2")}</p>
+                    <p>{t("modal.notes.note1")}</p>
+                    <p>{t("modal.notes.note2")}</p>
                   </div>
 
                   <button
