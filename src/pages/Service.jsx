@@ -31,32 +31,27 @@ const HeroCarousel = () => {
     {
       id: 1,
       title: "Basic Turbine Kit",
-      image:
-        "https://images.unsplash.com/photo-1508791170100-0072940c215e?auto=format&fit=crop&q=80&w=600", // Ganti dengan path lokal kamu
+      image: "image/e1.webp",
     },
     {
       id: 2,
       title: "Advanced STEM Kit",
-      image:
-        "https://images.unsplash.com/photo-1581092160562-40aa08e78837?auto=format&fit=crop&q=80&w=600",
+      image: "image/e2.webp",
     },
     {
       id: 3,
       title: "Hybrid Solar-Wind",
-      image:
-        "https://images.unsplash.com/photo-1497435334941-8c899ee9e8e9?auto=format&fit=crop&q=80&w=600",
+      image: "image/e3.webp",
     },
     {
       id: 4,
       title: "Monitoring System",
-      image:
-        "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&q=80&w=600",
+      image: "image/e4.webp",
     },
     {
       id: 5,
       title: "Workshop Tools",
-      image:
-        "https://images.unsplash.com/photo-1537462715879-360eeb61a0ad?auto=format&fit=crop&q=80&w=600",
+      image: "image/e5.webp",
     },
   ];
 

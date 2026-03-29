@@ -4,11 +4,13 @@ import { Sun, Lightbulb, CloudDownload, Wrench } from "lucide-react";
 import gsap from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
 import { ArrowRight } from "lucide-react";
+import { useNavigate } from "react-router-dom";
 
 gsap.registerPlugin(ScrollTrigger);
 
 export default function Hero() {
   const { t } = useTranslation();
+  const navigate = useNavigate();
   const scrollRef = useRef(null);
   const [isDragging, setIsDragging] = useState(false);
   const [startX, setStartX] = useState(0);
@@ -516,7 +518,10 @@ export default function Hero() {
               {t("investor.description")}
             </p>
 
-            <button className="flex items-center gap-3 px-8 py-4 border-2 border-dark/20 dark:border-white/20 rounded-full text-dark dark:text-white font-semibold hover:bg-primary hover:text-background hover:border-primary transition-all duration-300 group whitespace-nowrap">
+            <button
+              onClick={() => navigate("/consultation")}
+              className="flex items-center gap-3 px-8 py-4 border-2 border-dark/20 dark:border-white/20 rounded-full text-dark dark:text-white font-semibold hover:bg-primary hover:text-background hover:border-primary transition-all duration-300 group whitespace-nowrap"
+            >
               {t("investor.button")}
               <ArrowRight className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
             </button>

@@ -123,7 +123,7 @@ const AboutHero = () => {
           <div
             className="absolute inset-0 bg-fixed bg-cover bg-center bg-no-repeat blur-[4px] scale-105"
             style={{
-              backgroundImage: "url('image/t2.jpg')",
+              backgroundImage: "url('image/t2.webp')",
             }}
           ></div>
           <div className="absolute inset-0 bg-gradient-to-r from-black via-black/80 to-black/40"></div>

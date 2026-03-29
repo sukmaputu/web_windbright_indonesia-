@@ -8,23 +8,64 @@ const Consultation = () => {
     question: "",
   });
 
+  const [status, setStatus] = useState({
+    success: false,
+    error: "",
+  });
+
   const handleSubmit = async (e) => {
     e.preventDefault();
 
-    await fetch("https://hook.eu1.make.com/q4akfsrk0u542i4r4aulq3h8n58o7ebk", {
-      method: "POST",
-      headers: {
-        "Content-Type": "application/json",
-      },
-      body: JSON.stringify(formData),
-    });
+    // 🔍 VALIDASI
+    if (
+      !formData.fullName ||
+      !formData.phoneNumber ||
+      !formData.email ||
+      !formData.question
+    ) {
+      setStatus({ success: false, error: "Semua field wajib diisi" });
+      return;
+    }
 
-    setFormData({
-      fullName: "",
-      phoneNumber: "",
-      email: "",
-      question: "",
-    });
+    if (!formData.email.includes("@")) {
+      setStatus({ success: false, error: "Format email tidak valid" });
+      return;
+    }
+
+    if (formData.phoneNumber.length < 10) {
+      setStatus({ success: false, error: "Nomor HP tidak valid" });
+      return;
+    }
+
+    try {
+      await fetch(
+        "https://hook.eu1.make.com/q4akfsrk0u542i4r4aulq3h8n58o7ebk",
+        {
+          method: "POST",
+          headers: {
+            "Content-Type": "application/json",
+          },
+          body: JSON.stringify(formData),
+        },
+      );
+
+      // ✅ SUCCESS
+      setStatus({ success: true, error: "" });
+
+      setFormData({
+        fullName: "",
+        phoneNumber: "",
+        email: "",
+        question: "",
+      });
+
+      // auto hide notif setelah 3 detik
+      setTimeout(() => {
+        setStatus({ success: false, error: "" });
+      }, 3000);
+    } catch {
+      setStatus({ success: false, error: "Gagal mengirim pesan" });
+    }
   };
   return (
     <section className="min-h-screen bg-background dark:bg-slate-900 pt-32 pb-20 px-6 transition-colors duration-300">
@@ -42,6 +83,18 @@ const Consultation = () => {
             WindBright Team
           </p>
         </div>
+
+        {status.success && (
+          <div className="mb-6 p-4 rounded-xl bg-green-500/10 border border-green-500 text-green-600 font-semibold text-center">
+            ✅ Pesan Terkirim
+          </div>
+        )}
+
+        {status.error && (
+          <div className="mb-6 p-4 rounded-xl bg-red-500/10 border border-red-500 text-red-600 font-semibold text-center">
+            ❌ {status.error}
+          </div>
+        )}
 
         <form onSubmit={handleSubmit} className="space-y-6">
           <div className="flex flex-col space-y-2">

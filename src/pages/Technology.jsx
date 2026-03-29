@@ -136,7 +136,7 @@ const TechHero = () => {
             <div className="flex-1 relative w-full max-w-2xl lg:max-w-none mt-12 lg:mt-0">
               <div className="relative z-10 rounded-3xl overflow-hidden shadow-2xl transform lg:rotate-3 hover:rotate-0 transition-transform duration-700 border border-white/10">
                 <img
-                  src="image/t1.jpg"
+                  src="image/t1.webp"
                   alt="Technology Hardware"
                   className="w-full h-[300px] md:h-[400px] lg:h-[500px] object-cover"
                 />
