@@ -38,7 +38,7 @@ const Consultation = () => {
     }
 
     try {
-      await fetch(
+      const res = await fetch(
         "https://hook.eu1.make.com/q4akfsrk0u542i4r4aulq3h8n58o7ebk",
         {
           method: "POST",
@@ -48,6 +48,11 @@ const Consultation = () => {
           body: JSON.stringify(formData),
         },
       );
+
+      // 🔥 CEK RESPONSE
+      if (!res.ok) {
+        throw new Error("Request gagal");
+      }
 
       // ✅ SUCCESS
       setStatus({ success: true, error: "" });
@@ -59,11 +64,11 @@ const Consultation = () => {
         question: "",
       });
 
-      // auto hide notif setelah 3 detik
       setTimeout(() => {
         setStatus({ success: false, error: "" });
       }, 3000);
-    } catch {
+    } catch (err) {
+      console.error(err);
       setStatus({ success: false, error: "Gagal mengirim pesan" });
     }
   };
